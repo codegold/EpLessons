@@ -1,4 +1,4 @@
-package EpamLessons.EpLessons.EpamLessons.Lesson16072019;
+package EpamLessons.Lesson16072019;
 
 import java.util.*;
 
